@@ -252,6 +252,28 @@ git push origin feature/your-feature
 - 投资相关内容仅供参考，不构成投资建议
 - 调研截止：2024-2025 年初
 
+## 🤝 同门兄弟项目
+
+都是用人物蒸馏方法论做的思维操作系统：
+
+| 项目 | 蒸馏对象 | 一句话定位 |
+|------|---------|-----------|
+| [**zettaranc-skill**](https://github.com/lululu811/zettaranc-skill) | Z哥（万千） | 职业交易员的交易决策框架 |
+| [**mo-skill**](https://github.com/lululu811/mo-skill) | BOSS墨 | 285期B站视频里的交易思维蒸馏 |
+| [**benben-jiucai-perspective**](https://github.com/lululu811/benben-jiucai-perspective) | 笨笨的韭菜 | A股景气投资，260万字视频蒸馏 |
+| [**fupeng-perspective**](https://github.com/lululu811/fupeng-perspective) | 付鹏 | 东北证券首席经济学家的宏观分析框架（你正在看的这个） |
+| [**jiangju-perspective**](https://github.com/lululu811/jiangju-perspective) | 战国时代_姜汁汽水 | 地缘财经思维，基于186篇视频文稿 |
+
+### 配套工具
+
+| 项目 | 用途 |
+|------|------|
+| [**bilibili-subtitle-downloader**](https://github.com/lululu811/bilibili-subtitle-downloader) | B站视频字幕下载器 |
+| [**content-factory**](https://github.com/lululu811/content-factory) | A股投研AI编辑部 |
+| [**halo-skill**](https://github.com/lululu811/halo-skill) | 股票数据验证 |
+
+---
+
 ## 📄 许可证
 
 本项目采用 [MIT License](LICENSE) 开源。
