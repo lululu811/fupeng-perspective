@@ -8,7 +8,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-orange?logo=anthropic)](https://claude.ai/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/lululu811/fupeng-perspective/blob/main/LICENSE)
 
 [特性](#-特性) · [快速开始](#-快速开始) · [项目结构](#-项目结构) · [方法论](#-方法论) · [核心心智模型](#-核心心智模型) · [贡献](#-贡献) · [致谢](#-致谢)
 
@@ -89,7 +89,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YOUR_USERNAME/fupeng-perspective.git
+git clone https://github.com/lululu811/fupeng-perspective.git
 cd fupeng-perspective
 
 # 2. 运行预提炼工具（可选，用于质量检查）
@@ -262,6 +262,6 @@ git push origin feature/your-feature
 
 **如果这个项目对你有帮助，欢迎给它一个 ⭐ Star！**
 
-[Issues](https://github.com/YOUR_USERNAME/fupeng-perspective/issues) · [Pull Requests](https://github.com/YOUR_USERNAME/fupeng-perspective/pulls) · [Discussions](https://github.com/YOUR_USERNAME/fupeng-perspective/discussions)
+[Issues](https://github.com/lululu811/fupeng-perspective/issues) · [Pull Requests](https://github.com/lululu811/fupeng-perspective/pulls) · [Discussions](https://github.com/lululu811/fupeng-perspective/discussions)
 
 </div>
